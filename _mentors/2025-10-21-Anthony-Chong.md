@@ -52,6 +52,6 @@ molly tea + yap or help u with whatever u need!
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Anthony_Chong - Anthony Chong.jpg" alt="Anthony Chong" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Anthony_Chong - Anthony Chong.jpg" alt="Anthony Chong" class="rounded post-img" />
 </div>
 

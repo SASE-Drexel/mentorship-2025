@@ -44,6 +44,6 @@ Lots of yapping and eating good food.
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Rachael_Tang - Rachael Tang.jpg" alt="Rachael Tang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Rachael_Tang - Rachael Tang.jpg" alt="Rachael Tang" class="rounded post-img" />
 </div>
 

@@ -45,6 +45,6 @@ I'd like to be friends with my mentee and if you need advice or help professiona
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Joel_Abraham - Joel Abraham.jpg" alt="Joel Abraham" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Joel_Abraham - Joel Abraham.jpg" alt="Joel Abraham" class="rounded post-img" />
 </div>
 

@@ -48,6 +48,6 @@ software developer (product team) @ Apex Silver, web developer @ Society of Hosp
 We're gonna be great friends! Let's go cafe hopping and restaurant hunting together. I'll always be here for you for both school and life!!
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Heather_Yuen - Heather Yuen.jpg" alt="Heather Yuen" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Heather_Yuen - Heather Yuen.jpg" alt="Heather Yuen" class="rounded post-img" />
 </div>
 

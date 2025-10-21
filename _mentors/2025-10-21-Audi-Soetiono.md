@@ -46,6 +46,6 @@ I want to train them in the ways of engineering
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Audi_Soetiono - Audi Soetiono.jpg" alt="Audi Soetiono" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Audi_Soetiono - Audi Soetiono.jpg" alt="Audi Soetiono" class="rounded post-img" />
 </div>
 

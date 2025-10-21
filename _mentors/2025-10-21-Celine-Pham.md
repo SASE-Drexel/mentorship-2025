@@ -47,6 +47,6 @@ Pretty flexible! Would like to mentor someone with similar career goals, so I co
 ٩( 'ω' )و . I’ll try and be apart of your support system!! 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Celine_Pham - Celine Pham.jpg" alt="Celine Pham" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Celine_Pham - Celine Pham.jpg" alt="Celine Pham" class="rounded post-img" />
 </div>
 

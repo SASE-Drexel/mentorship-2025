@@ -43,6 +43,6 @@ casual
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Andrew_Zhang - Andrew Zhang.jpg" alt="Andrew Zhang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Andrew_Zhang - Andrew Zhang.jpg" alt="Andrew Zhang" class="rounded post-img" />
 </div>
 

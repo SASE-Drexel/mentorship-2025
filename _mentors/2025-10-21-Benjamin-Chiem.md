@@ -48,6 +48,6 @@ Hangout as often or as little as we want, could just reach out to me for help or
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Benjamin_Chiem - Benjamin Chiem.jpg" alt="Benjamin Chiem" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Benjamin_Chiem - Benjamin Chiem.jpg" alt="Benjamin Chiem" class="rounded post-img" />
 </div>
 

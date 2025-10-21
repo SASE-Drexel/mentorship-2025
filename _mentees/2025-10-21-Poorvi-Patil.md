@@ -2,7 +2,7 @@
 layout: post
 title: Poorvi Patil
 date: 2025-10-21
-image: assets/images/Poorvi_Patil
+image: assets/images/Poorvi_Patil - Poorvi Patil.jpg
  - Poorvi Patil.jpg
 about:  I'm first-year grad student in Machine Learning at Drexel University, passionate about applying artificial intelligence to quantitative research and financial modeling. With a background in software engineering, I bring strong skills in Python, deep learning, and data-driven optimization. My academic interests include time-series forecasting, large language models, and algorithmic trading systems. Outside of academics, I enjoy cooking, playing squash, and connecting with peers on campus. I aim to build innovative AI solutions that bridge research and real-world financial intelligence.
 year: Freshman

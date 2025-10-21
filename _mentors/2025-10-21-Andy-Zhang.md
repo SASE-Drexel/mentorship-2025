@@ -41,6 +41,6 @@ friends, informal, we will not be saying "Hello, I hope this email finds you wel
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Andy_Zhang - Andy Zhang.jpg" alt="Andy Zhang" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Andy_Zhang - Andy Zhang.jpg" alt="Andy Zhang" class="rounded post-img" />
 </div>
 

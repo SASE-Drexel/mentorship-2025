@@ -50,6 +50,6 @@ PC games
 Hard to say, probably someone that shares some of my interests? As I've said I value work/life balance so I'd like someone that values that too and is not solely career driven in and out of mentorship. (That can tire me out)
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Kevin_Chea - Kevin Chea.jpg" alt="Kevin Chea" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Kevin_Chea - Kevin Chea.jpg" alt="Kevin Chea" class="rounded post-img" />
 </div>
 

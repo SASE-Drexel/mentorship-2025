@@ -48,6 +48,6 @@ nursing is not quite STEM and i have no co-op experience yet, but i can provide 
 
 
 <div class="text-center my-5">
-    <img src="https://sase-drexel.github.io/mentorship-2024/assets/images/Rylee_Hecht - Rylee Hecht.jpg" alt="Rylee Hecht" class="rounded post-img" />
+    <img src="https://sase-drexel.github.io/mentorship-2025/assets/images/Rylee_Hecht - Rylee Hecht.jpg" alt="Rylee Hecht" class="rounded post-img" />
 </div>
 
