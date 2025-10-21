@@ -3,8 +3,7 @@ layout: post
 title: William Hom
 date: 2025-10-21
 image: assets/images/William_Hom - William Hom.jpg
-about: Allo! 
-My name is William and I'm a 3rd year ECE major. I love to eat as much as anyone else does, and I like to bake!
+about: Allo! My name is William and I'm a 3rd year ECE major. I love to eat as much as anyone else does, and I like to bake!
 year: Pre-Junior
 major: Electrical and Computer Engineering
 concentration: Hardware

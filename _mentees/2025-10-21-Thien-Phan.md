@@ -3,9 +3,7 @@ layout: post
 title: Thien Phan
 date: 2025-10-21
 image: assets/images/Thien_Phan - Thien Phan.jpg
-about: If I was to describe myself, I would describe myself as flexible, shy, observant, creative, introspective, and open-minded.
-
-I tend to overthink a lot and I am anxious at times even though I may not show it.
+about: If I was to describe myself, I would describe myself as flexible, shy, observant, creative, introspective, and open-minded. I tend to overthink a lot and I am anxious at times even though I may not show it.
 year: Freshman
 major: Computer engineering
 
